@@ -1,0 +1,14 @@
+{
+  "name": "webgl-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "2.5.0",
+    "parcel": "^2.5.0"
+  }
+}
